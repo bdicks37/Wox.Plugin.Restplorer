@@ -1,0 +1,12 @@
+{
+  "ID":"E89513E66B6642828878744B02364578",
+  "ActionKeyword":"//restplorer",
+  "Name":"Restplorer",
+  "Description":"Restarts Explorer.exe",
+  "Author":"bdicks37",
+  "Version":"1.0.0",
+  "Language":"csharp",
+  "Website":"https://github.com/bdicks37/Wox.Plugin.Restplorer",
+  "IcoPath": "icon.png",
+  "ExecuteFileName":"Wox.Plugin.Restplorer.dll"
+}
